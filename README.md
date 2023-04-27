@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/127011697/234890420-c206879a-cdc8-4245-838a-5935f231a261.png)
 
 # StegoX - Hide a Secret Text Message in an Image
 
